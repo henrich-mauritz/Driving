@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Driving",
-            url: "https://public.repo.sygic.com/repository/maven-sygic-releases/com/sygic/adas/driving/2.5.1/driving-2.5.1.zip",
-            checksum: "78caab42a04143f7a1caa352eac3ca70136a02b55fdabc2825b2f971e282892f")
+            url: "https://public.repo.sygic.com/repository/maven-sygic-releases/com/sygic/adas/driving/2.5.2/driving-2.5.2.zip",
+            checksum: "ce1f3353b9fab4c3f4ba87b0ac3107b56de387711a05701174ff7a9dd886ade8")
     ]
 )
